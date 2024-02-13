@@ -1,0 +1,21 @@
+[debug] [2024-02-10T21:50:10.015Z] ----------------------------------------------------------------------
+[debug] [2024-02-10T21:50:10.017Z] Command:       /home/collin/.nvm/versions/node/v20.10.0/bin/node /home/collin/.nvm/versions/node/v20.10.0/bin/firebase init
+[debug] [2024-02-10T21:50:10.017Z] CLI Version:   13.2.1
+[debug] [2024-02-10T21:50:10.017Z] Platform:      linux
+[debug] [2024-02-10T21:50:10.017Z] Node Version:  v20.10.0
+[debug] [2024-02-10T21:50:10.017Z] Time:          Sat Feb 10 2024 16:50:10 GMT-0500 (Eastern Standard Time)
+[debug] [2024-02-10T21:50:10.017Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-02-10T21:50:10.020Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-02-10T21:50:10.020Z] > authorizing via signed-in user (collin.trumpler@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/collin/repositories/chat-app
+
