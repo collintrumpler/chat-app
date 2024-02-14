@@ -118,7 +118,7 @@ export const ExpenseTracker = () => {
               <li>
                 <h4>{description}</h4>
                 <p>
-                  ${transactionAmount}•
+                  ${transactionAmount} •
                   <label
                     style={{
                       color: transactionType === "expense" ? "red" : "green",

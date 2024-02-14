@@ -5,7 +5,7 @@ import { ExpenseTracker } from "./pages/expense-tracker/index";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Router>
         <Routes>
           <Route path="/" exact element={<Auth />} />
