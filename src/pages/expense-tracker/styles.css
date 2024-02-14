@@ -207,6 +207,21 @@ button {
   background: none;
   color: white;
   border: 2px solid white;
+  transition: 0.2s;
+}
+
+.add-transaction > input:focus {
+  color: black;
+  background-color: white;
+  outline: none;
+}
+
+.add-transaction > input[type="radio"] {
+  accent-color: black;
+}
+.add-transaction > input[type="radio"]:checked {
+  accent-color: #767676;
+  outline: none;
 }
 
 .add-transaction > button {
